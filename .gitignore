@@ -1,0 +1,25 @@
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Editor-based HTTP Client requests
+/httpRequests/
+
+# Ignored default folder with query files
+/queries/
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Credenciais e arquivos sensíveis
+.env
+/credentials/
+*firebase-adminsdk*.json
+
+# Arquivos gerados pelo Maven
+/target/
+
+# Arquivos de configuração do IntelliJ
+*.iml
